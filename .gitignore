@@ -1,0 +1,6 @@
+yolo_dataset/
+dataset/
+backend/venv/
+node_modules/
+__pycache__/
+*.pt
